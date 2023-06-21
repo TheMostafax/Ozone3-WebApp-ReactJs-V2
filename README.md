@@ -10,8 +10,7 @@ Ozone3 Studio is a web application built using ReactJs that provides a platform 
 <h1 align="center">The GUI </h1>
 <hr>
 
-<h1 align="center" style="color:red;">Note</h1>
-<h4 align="left">Ozone3 Studio project is still a work in progress, it is not fully developed and requires additional features. </h4>
+gn="left">Ozone3 Studio project is still a work in progress, it is not fully developed and requires additional features. </h4>
 
 
 <hr>
