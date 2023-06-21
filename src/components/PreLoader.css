@@ -1,0 +1,30 @@
+.preloader {
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
+    width: 100%;
+    background: linear-gradient(rgb(0, 0, 0), rgb(48, 53, 56));
+    ;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    overflow: hidden !important;
+}
+
+.texts-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    width: 280px;
+    font-size: 20px;
+    overflow: hidden;
+    font-weight: 1000;
+    opacity: 0;
+    color: rgb(255, 255, 255);
+}
