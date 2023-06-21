@@ -57,7 +57,8 @@ Ozone3 Studio is a web application that provides a comprehensive platform for re
 
 <h3 align="center">Our Location</h3>
 
-![image](https://github.com/TheMostafax/Ozone3-WebApp-ReactJs-V2/assets/81190585/07e97c1a-ed16-4cc1-9741-f3172ae064ba)
+![image](https://github.com/TheMostafax/Ozone3-WebApp-ReactJs-V2/assets/81190585/8aa31e58-9a42-449a-a642-d7071ce1cc4c)
+
 
 
 <h3 align="center">Contact Us</h3>
